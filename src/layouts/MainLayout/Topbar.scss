@@ -1,0 +1,76 @@
+.navbar-brand {
+  width: 8%;
+
+  .image-logo {
+    background: url('../../assets/testIcon.PNG');
+    background-size: cover;
+    height: 40px;
+    width: 100%;
+    display: inline-block;
+  }
+}
+
+.sb-avatar {
+  align-self: center;
+  background: #80808042;
+  padding: 8px;
+  border-radius: 50%;
+}
+
+.border-right-gray {
+  border-right: 1px solid #ecedec;
+}
+
+.is-column {
+  border-top: 1px solid #dcdddc;
+  box-shadow: 0 1px 0px 0.4px #dedfde;
+}
+
+.dropdown-fields {
+  font-size: 12px;
+  padding-left: 6px;
+  color: #747574;
+  padding-top: 5px;
+}
+
+.css-g1d714-ValueContainer {
+  border: 1px solid #ecedec;
+  padding: 8px;
+  border-radius: 16px;
+  margin-right: 5px;
+}
+
+.css-yk16xz-control {
+  border: none !important;
+}
+
+.css-2b097c-container:focus {
+  border: none !important;
+  box-shadow: none !important;
+  outline: none !important;
+}
+
+.css-2b097c-container {
+  padding-bottom: 10px;
+}
+
+.css-1pahdxg-control:hover, .css-1pahdxg-control {
+  border-color: transparent !important;
+}
+
+.css-1pahdxg-control {
+  box-shadow: none !important;
+}
+
+.css-1okebmr-indicatorSeparator {
+  background-color: transparent !important;
+}
+
+.css-tlfecz-indicatorContainer {
+  padding: 0 !important;
+}
+
+.container-row {
+  padding-left: 5px;
+  padding-right: 5px;
+}

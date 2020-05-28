@@ -1,0 +1,29 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "projectTitle": "Art the Roemerweg",
+      "projectSubtitle": "Eisentadt, Australia",
+      "status": "Closed",
+      "maxInvestment": "$200k",
+      "minMax": "$7 - $200k"
+    },
+    {
+      "id": 2,
+      "projectTitle": "test 2 the Roemerweg",
+      "projectSubtitle": "Manila, Philippines",
+      "status": "Closed",
+      "maxInvestment": "$200k",
+      "minMax": "$7 - $200k"
+    },
+    {
+      "id": 3,
+      "projectTitle": "test 3 the Roemerweg",
+      "projectSubtitle": "Manila, Philippines",
+      "status": "Closed",
+      "maxInvestment": "$300k",
+      "minMax": "$8 - $300k"
+    }
+  ]
+
+}

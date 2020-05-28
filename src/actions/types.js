@@ -1,0 +1,2 @@
+export const FETCH_PROJECTS = 'FETCH_PROJECTS';
+export const FILTER_PROJECTS = 'FILTER_PROJECTS';
